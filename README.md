@@ -1,7 +1,7 @@
 # PAINTINGS
 
 <p>This project allows the user to store in a personal profile favorite pieces of art, it is a Full CRUD app.</p>
-<p>It also has LOGIN and REGISTRATION with REGEX hashing the users passwords.</p>
+<p>It also has LOGIN and REGISTRATION with REGEX hashing the users passwords, keeps the user in session and the app handles VALIDATIONS as well.</p>
 <p>You can create, save, edit and delete Bands.</p>
 
 ## Demo
